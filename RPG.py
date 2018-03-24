@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from observer import Observer
 from observable import Observable
 from random import randint, uniform
